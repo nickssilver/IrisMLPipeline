@@ -2,10 +2,10 @@
 
 This repository demonstrates the creation of a machine learning pipeline using scikit-learn with the Random Forest Regression algorithm. The pipeline includes data preprocessing, model training, and evaluation. The sources used for creating this example are as follows:
 
-   - [turing.com: Building an ML Pipeline in Python with scikit-learn]()
-   - [freecodecamp.org: Machine Learning Pipeline]()
-   - [towardsdatascience.com: Building a Machine Learning Pipeline]()
-   - [analyticsvidhya.com: Build your first Machine Learning Pipeline using scikit-learn]()
+   - [turing.com: Building an ML Pipeline in Python with scikit-learn](https://www.turing.com/kb/building-ml-pipeline-in-python-with-scikit-learn)
+   - [freecodecamp.org: Machine Learning Pipeline](https://www.freecodecamp.org/news/machine-learning-pipeline/)
+   - [towardsdatascience.com: Building a Machine Learning Pipeline](https://towardsdatascience.com/building-a-machine-learning-pipeline-3bba20c2352b)
+   - [analyticsvidhya.com: Build your first Machine Learning Pipeline using scikit-learn](https://www.analyticsvidhya.com/blog/2020/01/build-your-first-machine-learning-pipeline-using-scikit-learn/)
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ Model Evaluation
 The trained model is evaluated on the testing set using accuracy_score and balanced_accuracy_score from scikit-learn's metrics module. The results are printed to the console.
 ### Authors
 
- [Nicks M. Gitobu, Software Engineer]()
+ [Nicks M. Gitobu, Software Engineer](https://www.linkedin.com/in/nicholas-gitobu-973b081b9/)
 
 License
 
